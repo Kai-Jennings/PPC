@@ -12,7 +12,9 @@ This document serves as the index for all evidence associated with my Profession
 **Focus:** Routing, switching, underlying network infrastructure, server architecture, and port security.
 
 ### Artefacts & Documentation
-
+* **Completed Coursework:**
+  ![](/img/RaSE.png)
+ 
 
 ---
 
@@ -30,7 +32,8 @@ This document serves as the index for all evidence associated with my Profession
   * Project: **Ambavia** 
     * Repository: https://github.com/fadaaszhi/ambavia
   * University Canvas Modules & GitHub Quizzes:
-
+    ![](/img/Canvas.png)
+    ![](/img/Quiz.png)
 
 ---
 
